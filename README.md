@@ -1,6 +1,6 @@
 # Google Calendar manager
 
-I made this app for adding my working hours in the current week to my Google Calendar. 
+I made this application for adding my working hours in the current week to my Google Calendar. 
 
 Adding my hours via the google calendar application was a tedious and time-consuming task ; I
 had to individually add on each day the hours I would be working and the times along with other info which was always the same such as location and event title.
